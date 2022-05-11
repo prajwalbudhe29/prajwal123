@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Parallel test suit " parallel = "method" thread-count="2">
+<test name = "Regression 1 " >
+<classes>
+
+<class name = "TestNGadvxml.ParallelExecutionMethods"/>
+
+</classes>
+</test>
+</suite>

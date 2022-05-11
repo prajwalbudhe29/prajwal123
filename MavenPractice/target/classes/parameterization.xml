@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suit name = "Parameterization Test Suite">
+<test name = "Testing Parameterization">
+
+<parameter name="browser" value = "chrome"/>
+
+<parameter name="username" value ="admin"/>
+
+<parameter name= "password" value = "Test@123"/>
+
+<classes>
+ 
+ <class name ="TestNGadvxml.Parameterization"/>
+
+</classes>
+
+
+</test>
+
+
+</suit>
